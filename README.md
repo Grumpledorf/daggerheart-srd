@@ -282,7 +282,7 @@ Each domain card includes six elements:
 
 ###### LOADOUT & VAULT
 
-Your **loadout** is the set of acquired domain cards whose effects your PC can use during play. You can have up to 5 domain cards in your loadout at one time. Once you've acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault.** Vault cards are inactive and do not influence play
+Your **loadout** is the set of acquired domain cards whose effects your PC can use during play. You can have up to 5 domain cards in your loadout at one time. Once you've acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault.** Vault cards are inactive and do not influence play.
 
 > _**Note:** Your subclass, ancestry, and community cards don't count toward your loadout or vault and are always active and available._
 
@@ -568,7 +568,7 @@ Some features and effects let you roll with advantage or disadvantage on an acti
 
 Advantage or disadvantage can be granted or imposed by mechanical triggers or at the GM's discretion. When a PC aids you with Help an Ally, they roll their own advantage die and you add it to your total.
 
-Advantage and disadvantage dice cancel each out, one-forone, when they would be added to the same dice pool, so you'll never roll both at the same time. If you have advantage or disadvantage from other sources that don't affect your own dice pool, such as another player's Help an Ally move, their effects stack with your rolled results.
+Advantage and disadvantage dice cancel each other out, one-for-one, when they would be added to the same dice pool, so you'll never roll both at the same time. If you have advantage or disadvantage from other sources that don't affect your own dice pool, such as another player's Help an Ally move, their effects stack with your rolled results.
 
 #### HOPE & FEAR
 
@@ -599,7 +599,7 @@ Though Daggerheart relies on the same flow of collaborative storytelling in and 
 
 **Evasion** represents a character's ability to avoid attacks and other unwanted effects. Any roll made against a PC has a Difficulty equal to the target's Evasion. A PC's base Evasion is determined by their class, but can be modified by domain cards, equipment, conditions, and other effects.
 
-> _**Note**: attacks rolled against adversaries use the target's Difficulty instead of Evasion._
+> _**Note**: Attacks rolled against adversaries use the target's Difficulty instead of Evasion._
 
 #### HIT POINTS & DAMAGE THRESHOLDS
 
@@ -2054,7 +2054,7 @@ The GM can spend a Fear to add an adversary's relevant Experience to raise their
 
 ###### FEATURE(S)
 
-There are three kinds of adversary features: **actions, reactions,** and **passives.** Note: each adversaries stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
+There are three kinds of adversary features: **actions, reactions,** and **passives.** Note: each adversary's stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activated. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
 
 - **Actions:** a special attack or other unique action that the adversary can perform when the spotlight is on them.
 - **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.
