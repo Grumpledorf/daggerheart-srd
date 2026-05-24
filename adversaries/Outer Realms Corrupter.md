@@ -1,4 +1,4 @@
-# Outer Realms Corruptor
+# Outer Realms Corrupter
 
 **_Tier 4 Support._** _A shifting, formless mass seemingly made of chromatic light._
 
