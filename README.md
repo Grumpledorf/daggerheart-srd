@@ -143,7 +143,7 @@ Your character's **heritage** combines two elements: **ancestry** and **communit
 
 Your character has six traits that represent their physical, mental, and social aptitude:
 
-- **Agility** (Use it to Sprint, Leap, Maneuver,etc.) A high Agility means you're fast on your feet, nimble on difficult terrain, and quick to react to danger. You'll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
+- **Agility** (Use it to Sprint, Leap, Maneuver, etc.) A high Agility means you're fast on your feet, nimble on difficult terrain, and quick to react to danger. You'll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
 - **Strength** (Use it to Lift, Smash, Grapple, etc.) A high Strength means you're better at feats that test your physical prowess and stamina. You'll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
 - **Finesse** (Use it to Control, Hide, Tinker, etc.) A high Finesse means you're skilled at tasks that require accuracy, stealth, or the utmost control. You'll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
 - **Instinct** (Use it to Perceive, Sense, Navigate, etc.) A high Instinct means you have a keen sense of your surroundings and a natural intuition. You'll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
@@ -168,7 +168,7 @@ When you "roll with a trait," that trait's modifier is added to the roll's total
 
 Choose your **weapon(s):**
 
-- Select from the Tier 1 Weapon Tables. Either a **twohanded primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon.**Then equip your selection by recording it in the Active Weapon field of your character sheet.
+- Select from the Tier 1 Weapon Tables. Either a **two-handed primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon.**Then equip your selection by recording it in the Active Weapon field of your character sheet.
 - At Level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** _Example: If your Proficiency is 1 and your weapon's damage dice is d6+1, your damage roll is 1d6+1. Proficiency only determines how many damage dice you roll, and does not affect any flat damage modifiers._
 
 Choose and equip one set of **armor** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
@@ -1883,9 +1883,7 @@ It's up to you and your players how much importance you want to place on gold, e
 
 Adjust the availability and utility of wealth and equipment to reflect the tone, themes, and setting of your campaign.
 
-If you don't wish to track gold, then when PCs go shopping for new items let them pick one or two from a short, preselected
-
-list that aligns with your campaign setting and the party's current location.
+If you don't wish to track gold, then when PCs go shopping for new items let them pick one or two from a short, preselected list that aligns with your campaign setting and the party's current location.
 
 Otherwise, set the prices of goods and services by adjusting the entries in the Average Costs table to reflect your campaign setting:
 
@@ -1907,7 +1905,7 @@ Otherwise, set the prices of goods and services by adjusting the entries in the 
 
 When you run NPCs as the GM, you should always strive to follow your GM principles and use them to bring the world to life. Differentiate NPCs with unique manners of speech and action; let their individual goals and desires motivate their actions.
 
-The only essential elements for a NPC are their **name, description,** and **motive.** If it's likely that the PCs will roll actions against them, give them a **Difficulty.** Adversaries can be invented or improvised by modifying the stat block of another adversary.
+The only essential elements for an NPC are their **name, description,** and **motive.** If it's likely that the PCs will roll actions against them, give them a **Difficulty.** Adversaries can be invented or improvised by modifying the stat block of another adversary.
 
 If an NPC becomes an ally in combat, they don't need a stat block—just put the spotlight on what they do and show how their involvement alters the fiction. If a PC capitalizes on their help during the scene, give the PC advantage. NPCs that don't have Hit Points or Stress can still be injured or killed if the fiction demands it.
 
