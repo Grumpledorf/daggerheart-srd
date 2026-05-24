@@ -545,7 +545,7 @@ If you critically succeed on a reaction roll, you don't clear a Stress or gain a
 
 When multiple PCs take action together, the party chooses one PC to **lead the action.** Each other player then describes how their character collaborates on the task. The leader makes an action roll as usual, while the other players make reaction rolls using whichever traits they and the GM decide fit best.
 
-The lead character gains a +1 bonus to their lead action roll for each of these reaction rolls that succeeded and a -1 penalty for each these reaction rolls that failed.
+The lead character gains a +1 bonus to their lead action roll for each of these reaction rolls that succeeded and a -1 penalty for of each these reaction rolls that failed.
 
 ###### TAG TEAM ROLLS
 
@@ -642,7 +642,7 @@ An **attack roll** is an action roll intended to inflict harm. The trait that ap
 
 ###### DAMAGE ROLLS
 
-On a successful attack, roll damage. Damage is calculated from the **damage roll** listed in the attack's description with the format "xdy+[modifier]" _(e.g., for a spell that inflicts "1d8+2" damage, you roll an eight-sided and add 2 to the result; the damage dealt is equal to the total)._
+On a successful attack, roll damage. Damage is calculated from the **damage roll** listed in the attack's description with the format "xdy+[modifier]" _(e.g., for a spell that inflicts "1d8+2" damage, you roll an eight-sided die and add 2 to the result; the damage dealt is equal to the total)._
 
 Any time an effect says to deal damage using your Spellcast trait, you roll a number of dice equal to your Spellcast trait.
 
@@ -773,7 +773,7 @@ A **long rest** is when the characters make camp and relax or sleep for several 
 
 - **Tend to All Wounds:** Clear all Hit Points for yourself or an ally.
 - **Clear All Stress:** Clear all Stress.
-- **Repair All Armor:** Clear all Armor Slots from your or an ally's armor
+- **Repair All Armor:** Clear all Armor Slots from your or an ally's armor.
 - **Prepare:** Describe how you prepare for the next day's adventure, then gain a Hope. If you choose to Prepare with one or more members of your party, you each gain 2 Hope.
 - **Work on a Project:** With GM approval, a PC may pursue a long-term project, such as deciphering an ancient text or crafting a new weapon. The first time they start a new project, assign it a countdown. Each time a PC makes the Work on a Project move, they either advance their project's countdown automatically or make an action roll to advance it (GM's choice).
 
@@ -1818,13 +1818,14 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 
 ###### KNOWLEDGE
 
-| ROLL | RECALL                                               | ANALYZE                                                       | COMPREHEND                                                   |
-| ---- | ---------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ |
-| 5    | Recall uncommon facts about your community.          | Unpack an obvious metaphor in a simple text.                  | Learn simple skills from an excellent teacher.               |
-| 10   | Recall uncommon facts about a neighboring community. | Identify obvious subtext in a conversation.                   | Learn simple skills from an average teacher.                 |
-| 15   | Recall uncommon facts about a distant community.     | Break an average cipher in a coded message.                   | Learn complicated skills from an excellent teacher.          |
-| 20   | Recall specialized facts about a distant community.  | Identify a weakness in a complicated battle plan.             | Learn complicated skills under poor conditions.              |
-| 25   | Recall specialized facts about a fallen kingdom.     | Predict the downfall of a nation based on concealed misdeeds. | Learn complicated skills quickly under dangerous conditions. |
+| ROLL | RECALL                                                       | ANALYZE                                                       | COMPREHEND                                                    |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| 5    | Recall uncommon facts about your community.                  | Unpack an obvious metaphor in a simple text.                  | Learn simple skills from an excellent teacher.                |
+| 10   | Recall uncommon facts about a neighboring community.         | Identify obvious subtext in a conversation.                   | Learn simple skills from an average teacher.                  |
+| 15   | Recall uncommon facts about a distant community.             | Break an average cipher in a coded message.                   | Learn complicated skills from an excellent teacher.           |
+| 20   | Recall specialized facts about a distant community.          | Identify a weakness in a complicated battle plan.             | Learn complicated skills under poor conditions.               |
+| 25   | Recall specialized facts about a fallen kingdom.             | Predict the downfall of a nation based on concealed misdeeds. | Learn complicated skills quickly under dangerous conditions.  |
+| 30   | Recall secret information about an obscure historical group. | Identify the weakness in a divine champion’s fighting form.   | Learn complicated skills quickly from incomplete information. |
 
 ##### GIVING ADVANTAGE AND DISADVANTAGE
 
@@ -1971,7 +1972,7 @@ If a character collides with an object or another character at a dangerous speed
 
 By default, attack rolls made while the attacker is underwater have disadvantage.
 
-For creatures that can't breathe underwater, use a standard countdown (3) to track how long they can hold their breath. Advance the countdown whenever the PC takes an action. In addition if they fail a roll or roll with Fear while underwater, you can spend your GM move to advance it an additional time—or twice, if they rolled a failure with Fear.
+For creatures that can't breathe underwater, use a standard countdown (3) to track how long they can hold their breath. Advance the countdown whenever the PC takes an action. In addition, if they fail a roll or roll with Fear while underwater, you can spend your GM move to advance it an additional time—or twice, if they rolled a failure with Fear.
 
 Once the countdown ends, the underwater PC must mark a Stress whenever they take an action.
 
@@ -2018,7 +2019,7 @@ A summary of the adversary's appearance and demeanor.
 
 ###### MOTIVES & TACTICS
 
-Suggusted impulses, actions and goals for the adversary.
+Suggested impulses, actions and goals for the adversary.
 
 ###### DIFFICULTY
 
@@ -2448,7 +2449,7 @@ Make battles by shifting the nature of its enemies or environment mid-combat:
 
 Use downtime scenes as a pressure release valve to vary the intensity of the story and give the PCs room to breathe.
 
-Empower your players to frame their own downtime scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved
+Empower your players to frame their own downtime scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved.
 
 ##### PROJECTS DURING DOWNTIME
 
@@ -2654,8 +2655,7 @@ But this cycle doesn't just affect Wicklings, it's dictated how Fanewick's wondr
 
 The plague sweeping across Haven spares no one. Since the initial outbreak, Haven ocials have worked tirelessly to quarantine those in the early stages of the disease, but this effort has done little to stop its spread. Due to the rarity of crimson lady's veil, many citizens began to carry or consume all manner of flowers and snake sheddings in an attempt to protect or cure themselves.
 
-In the initial stages, victims are a
-icted with a hacking cough laden with dust that resembles powdered bone. Then a scaled rash erupts across their skin, cracking their flesh in a unique and painful pattern that resembles a snake's skin. Not long after, the victims' bodies harden until their organs solidify and cease to function. The final stages of the Serpent's Sickness is so quick that many transform into statues where they stand, leaving all of Haven a cenotaph to a once-great power.
+In the initial stages, victims are afflicted with a hacking cough laden with dust that resembles powdered bone. Then a scaled rash erupts across their skin, cracking their flesh in a unique and painful pattern that resembles a snake's skin. Not long after, the victims' bodies harden until their organs solidify and cease to function. The final stages of the Serpent's Sickness is so quick that many transform into statues where they stand, leaving all of Haven a cenotaph to a once-great power.
 
 ###### LADY'S VEIL
 
